@@ -1,0 +1,24 @@
+-- REPOSITORIOS --
+https://github.com/cfizette/road-sign-cascades
+https://github.com/harsh-99/Traffic-sign-detection
+https://github.com/ZhouJiaHuan/traffic-sign-detection
+https://github.com/Project-Road-Sign-Detection/Tensorflow-Street-Sign-Recognition
+
+-- WEBS INTERESANTES --
+https://towardsdatascience.com/computer-vision-detecting-objects-using-haar-cascade-classifier-4585472829a9
+http://note.sonots.com/SciSoftware/haartraining.html
+http://manpages.ubuntu.com/manpages/trusty/man1/opencv_haartraining.1.html
+
+
+-- DATASET ORIGINAL MAS SOLUCIONES --
+http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
+https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
+https://chatbotslife.com/machine-versus-human-learning-in-traffic-sign-classification-2819e49e5e9
+https://github.com/muddassir235/German-Traffic-Sign-Classifier/tree/master
+https://github.com/asgunzi/CarND-Traffic-Sign-Classifier-Project
+
+
+-- IMPLEMENTACIÓN YOLO V3 --
+https://github.com/shahkaran76/yolo_v3-tensorflow-ipynb/blob/master/YOLO%20Tensorflow.ipynb
+https://blog.francium.tech/custom-object-training-and-detection-with-yolov3-darknet-and-opencv-41542f2ff44e
+https://pjreddie.com/darknet/yolo/
